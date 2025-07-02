@@ -38,7 +38,7 @@ Projects showcasing the best use case of Browser Use will get following cash pri
 
 The $150 prizes will be awarded on a rolling basis. The $500 and $2,500 prizes will be awarded at the end of the hackathon.
 
-Judges: Larsen Cundric
+Judges: Larsen Cundric, Mert Ünsal and Aitor Mato
 
 ### Best use of Potpie 🥧 ([see details](/resources/potpie.md)):
 
